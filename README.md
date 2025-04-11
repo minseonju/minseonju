@@ -73,4 +73,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseonju)](https://github.com/anuraghazra/github-readme-stats)
   
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&pause=1000&color=F77FA1&width=435&lines=Thank+you+for+visiting+my+github!;Success+doesn't+come+overnight.;He+can+do,+She+can+do+Why+not+me?" />
+
+
 </div>
