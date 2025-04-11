@@ -4,7 +4,7 @@
 **minseonju/minseonju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!-- 🌼 Header Section -->
-![header](https://capsule-render.vercel.app/api?type=speech&color=0:a8edea,100:fed6e3&height=200&text=Welcome%20to%20Seonju's%20Github!&fontSize=50&fontAlign=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=speech&color=0:a8edea,100:fed6e3&height=200&text=Welcome%20to%20Seonju's%20Github!&fontSize=50&fontAlign=50&fontAlignY=40&animation=blinking)
 
 
 <div align="right">
